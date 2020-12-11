@@ -1,7 +1,0 @@
-.DS_Store
-*.pyc
-*.so
-*~
-
-# Ignore bazel-* symlinks.
-/bazel-*
